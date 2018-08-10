@@ -1,2 +1,2 @@
 # Coursera_Class
-Advance ML
+Coursera Series class Advance Machine Learning
